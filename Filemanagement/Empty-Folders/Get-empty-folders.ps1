@@ -1,4 +1,4 @@
-﻿$logfile = "C:\log\proc_$env:computername-emptyfolderclear.log"
+﻿$logfile = "C:\log\proc_$env:computername-emptyfolders.log"
 function WriteLog
 {
 Param ([string]$LogString)
